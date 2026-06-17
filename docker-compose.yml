@@ -12,6 +12,7 @@ services:
   # =========================================
   postgres:
     # 使用带有 pgvector 插件的 PostgreSQL 16 镜像
+    platform: linux/amd64
     image: pgvector/pgvector:pg16
     container_name: interview-postgres
     environment:
