@@ -1,5 +1,7 @@
 package interview.guide.modules.resume;
 
+// @author TrustMe.  @date 2025-05-28
+
 import interview.guide.common.annotation.RateLimit;
 import interview.guide.common.result.Result;
 import interview.guide.modules.resume.model.ResumeDetailDTO;

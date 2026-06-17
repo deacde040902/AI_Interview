@@ -1,5 +1,7 @@
 package interview.guide.modules.interview.model;
 
+// @author TrustMe.  @date 2025-06-03
+
 import interview.guide.common.model.AsyncTaskStatus;
 import interview.guide.modules.resume.model.ResumeEntity;
 import jakarta.persistence.*;

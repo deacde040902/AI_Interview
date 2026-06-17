@@ -1,5 +1,7 @@
 package interview.guide.modules.interview.repository;
 
+// @author TrustMe.  @date 2025-06-02
+
 import interview.guide.modules.interview.model.InterviewAnswerEntity;
 import interview.guide.modules.interview.model.InterviewSessionEntity;
 import org.springframework.data.jpa.repository.JpaRepository;

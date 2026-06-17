@@ -1,5 +1,7 @@
 package interview.guide.modules.interview.model;
 
+// @author TrustMe.  @date 2025-06-01
+
 import jakarta.persistence.*;
 
 import java.time.LocalDateTime;

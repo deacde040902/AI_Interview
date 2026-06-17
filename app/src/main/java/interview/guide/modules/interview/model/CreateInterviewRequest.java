@@ -1,5 +1,7 @@
 package interview.guide.modules.interview.model;
 
+// @author TrustMe.  @date 2025-06-03
+
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;

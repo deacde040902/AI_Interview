@@ -1,5 +1,7 @@
 package interview.guide.modules.resume.service;
 
+// @author TrustMe.  @date 2025-05-29
+
 import interview.guide.common.config.AppConfigProperties;
 import interview.guide.common.exception.BusinessException;
 import interview.guide.common.exception.ErrorCode;

@@ -1,5 +1,7 @@
 package interview.guide.modules.resume.repository;
 
+// @author TrustMe.  @date 2025-05-29
+
 import interview.guide.modules.resume.model.ResumeEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

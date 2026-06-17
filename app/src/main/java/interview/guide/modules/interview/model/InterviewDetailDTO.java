@@ -1,5 +1,7 @@
 package interview.guide.modules.interview.model;
 
+// @author TrustMe.  @date 2025-05-31
+
 import java.time.LocalDateTime;
 import java.util.List;
 

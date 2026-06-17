@@ -1,5 +1,7 @@
 package interview.guide.modules.resume.service;
 
+// @author TrustMe.  @date 2025-05-28
+
 import interview.guide.infrastructure.file.ContentTypeDetectionService;
 import interview.guide.infrastructure.file.DocumentParseService;
 import interview.guide.infrastructure.file.FileStorageService;

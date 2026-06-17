@@ -1,5 +1,7 @@
 package interview.guide.modules.interview.repository;
 
+// @author TrustMe.  @date 2025-06-01
+
 import interview.guide.modules.interview.model.InterviewSessionEntity;
 import interview.guide.modules.interview.model.InterviewSessionEntity.SessionStatus;
 import interview.guide.modules.resume.model.ResumeEntity;

@@ -1,5 +1,7 @@
 package interview.guide.modules.interview.service;
 
+// @author TrustMe.  @date 2025-05-31
+
 import tools.jackson.core.JacksonException;
 import tools.jackson.core.type.TypeReference;
 import tools.jackson.databind.ObjectMapper;
